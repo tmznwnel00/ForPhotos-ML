@@ -1,0 +1,12 @@
+opencv-python
+numpy
+matplotlib
+deepface
+pillow
+
+tf-keras
+
+hsemotion
+facenet-pytorch
+torch
+torchvision
